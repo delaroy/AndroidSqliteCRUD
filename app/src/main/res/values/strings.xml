@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SqliteRecyclerview</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="beneficiaryaddress">Address</string>
+    <string name="beneficiarycountry">Country</string>
+    <string name="register_benef">Register Beneficiary</string>
+    <string name="show_list_benef">List of Registered Beneficiary</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+
+    <string name="hint_name">Name</string>
+
+</resources>
